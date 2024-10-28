@@ -6,7 +6,7 @@
   grid-template-columns: 1fr 2fr;
   gap: 100px;
   align-items: center;
-}
+
 .introducao h1 {
   font-size: 4.5rem;
   line-height: 1.125;
@@ -55,4 +55,5 @@
   .introducao img{
     display: none;
   }
+}
 }
